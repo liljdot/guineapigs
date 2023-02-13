@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/guineapigs/static/js/main.cd06096d.js",
+    "index.html": "/guineapigs/index.html",
+    "main.cd06096d.js.map": "/guineapigs/static/js/main.cd06096d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.cd06096d.js"
+  ]
+}
